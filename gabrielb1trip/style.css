@@ -5,7 +5,7 @@
 
 
 .cabecalho {
-    background-color: #ee8641;
+    background-color: #ff6400;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -22,4 +22,8 @@
     margin: 0 18px;
     padding: 24px 0;
     font-size: 30px ;
+}
+
+.mapa-da-italia{
+    width: 20%;
 }
