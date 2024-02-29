@@ -26,4 +26,29 @@
 
 .mapa-da-italia{
     width: 20%;
+    margin-left: 25em;
 }
+
+.Massas{
+    background-image: linear-gradient(#ff6400,#fabd78);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Massas-div-conteudo{
+    width: 35%;
+}
+
+.massas-titulo{
+    padding: 24px 0;
+    font-size: 300%;
+}
+ .massas-texto-um{
+    font-size: 150%;
+ }
+
+ .massas-texto-dois{
+    font-size: 150%;
+ }
